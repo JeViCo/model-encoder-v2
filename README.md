@@ -1,4 +1,4 @@
-Текущая версия: 1.02<br/>
+Текущая версия: 1.03<br/>
 <br/>
 Папка scripts необязательна и нужные файлы создадутся при генерации скрипта<br/>
 **Для запуска требуется [Net FrameWork 4.5](https://www.microsoft.com/ru-RU/download/details.aspx?id=56116)!** <img src="https://1.bp.blogspot.com/-zUuu5w_9_i0/V6ID2Q8jRxI/AAAAAAAAA4c/1BNU0YKjCXo77VUbbF3JyXJgd2Ma0B_3gCLcB/s200/Microsoft%2B.NET%2BFramework.png" width="15"><br/>
@@ -7,6 +7,8 @@
 - [ ] Добавить замену и пропись коллизий для объектов
 - [ ] Дополнительная защита (SCR)
 ### Changelog
+- 1.03
+	* Добавлена возможность запуска нескольких ресурсов шифрования
 - 1.02
 	* Исправленение обфускации
 	* Исправление ошибки подключения
@@ -15,13 +17,3 @@
 	* Новый дизайн
 	* Новый механизм шифрования
 	* Пароли на модели
-- 0.06
-	* Исправлена генерация meta.xml
-- 0.05
-	* Дополнительная защита стабильна
-	* Добавлена поддержка IFP <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Runner-animated-svg.svg/1024px-Runner-animated-svg.svg.png" width="15">
-- 0.04
-  * Добавлена дополнительная защита (SCR) <img src="http://icons.iconarchive.com/icons/icons8/windows-8/128/Security-Password-2-icon.png" width="15">
-  * Исправлен баг, когда некоторые модели не дешифровались
-- 0.03
-  * Добавлена поддержка Linux OS <img src="http://icons.iconarchive.com/icons/tatice/operating-systems/128/Linux-icon.png" width="18">
