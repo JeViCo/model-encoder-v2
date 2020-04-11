@@ -4,10 +4,12 @@
 **Для запуска требуется [Net FrameWork 4.5](https://www.microsoft.com/ru-RU/download/details.aspx?id=56116)!** <img src="https://1.bp.blogspot.com/-zUuu5w_9_i0/V6ID2Q8jRxI/AAAAAAAAA4c/1BNU0YKjCXo77VUbbF3JyXJgd2Ma0B_3gCLcB/s200/Microsoft%2B.NET%2BFramework.png" width="15"><br/>
 <br/>
 ### Задачи <img src="https://image.flaticon.com/icons/svg/338/338653.svg" width="20">
-- [x] ~~Добавить замену и пропись коллизий для объектов~~
-- [ ] Дополнительная защита (SCR)
+- [ ] Исправление проблемы нехватки памяти
+- [ ] Поддержка моделей с единым txd-файлом
+- [ ] Режим конфигурации
 ### Changelog
 - 1.11
+	* Добавлена замена и пропись коллизий для объектов
 	* Исправлена большого списка моделей
 - 1.10
 	* Исправлена генерация файлов (исполняемый файл)
