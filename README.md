@@ -1,9 +1,11 @@
-Текущая версия: 2.18<br/>
+Текущая версия: 2.19<br/>
 <br/>
 Папка scripts необязательна и нужные файлы создадутся при генерации скрипта<br/>
 **Для запуска требуется [Net FrameWork 4.5](https://www.microsoft.com/ru-RU/download/details.aspx?id=56116)!** <img src="https://2.bp.blogspot.com/-zUuu5w_9_i0/V6ID2Q8jRxI/AAAAAAAAA4c/1BNU0YKjCXo77VUbbF3JyXJgd2Ma0B_3gCLcB/s200/Microsoft%2B.NET%2BFramework.png" width="15"><br/>
 <br/>
 ### Changelog
+- 2.19
+	* Исправление недоступности интернет-соединения при использовании из некоторых стран
 - 2.18
 	* Исправление разрыва соединения при активации
 - 2.17
